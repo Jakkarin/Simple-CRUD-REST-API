@@ -2,6 +2,6 @@
 With Vuejs and Codeigniter
 
 ## Installation
-1. import database form sql folder.
-2. config database connection data.
-3. config base_url.
+1. Import database form sql folder.
+2. Config database connection data.
+3. Config base_url.
